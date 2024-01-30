@@ -1,0 +1,10 @@
+#drop:hover{
+color:aqua
+}
+#margin{
+    margin-right: 30%;
+    background-color: aquamarine;
+}
+.dropdown:hover .dropdown-menu { 
+    display: block; 
+}

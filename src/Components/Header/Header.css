@@ -1,0 +1,15 @@
+.right{
+    background-color: aqua;
+}
+.left{
+    background-color: blueviolet;
+    align-self: center;
+}
+.left h1 {
+    font-size: 52px;
+    color: gray;
+}
+.row{
+    height: 100vh;
+    
+}
